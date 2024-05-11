@@ -10,6 +10,8 @@ a web-based credit card rating model that predicts the creditworthiness of appli
 
 
 
+
+
 ## How to Run
 
 To run the Flask app locally, follow these steps:
@@ -58,25 +60,25 @@ You can refer to the `documentation.docx` file located in the project directory 
 
 ## Website Screenshots
 
-![Screenshot 1](screenshots/hero.png)
+![Screenshot 1](https://github.com/anuragsinha03/credity/blob/main/static/images/hero.png?raw=true)
 *MAIN SECTION*
 
-![Screenshot 2](screenshots/why.png)
+![Screenshot 2](https://github.com/anuragsinha03/credity/blob/main/static/images/why.png?raw=true)
 *WHY SECTION*
 
-![Screenshot 3](screenshots/parameters.png)
+![Screenshot 3](https://github.com/anuragsinha03/credity/blob/main/static/images/parameters.png?raw=true)
 *PARAMETERS SECTION*
 
-![Screenshot 4](screenshots/ss.png)
+![Screenshot 4](https://github.com/anuragsinha03/credity/blob/main/static/images/ss.png?raw=true)
 *PREDICTOR SECTION*
 
-![Screenshot 5](screenshots/ss2.png)
+![Screenshot 5](https://github.com/anuragsinha03/credity/blob/main/static/images/ss2.png?raw=true)
 *PREDICTOR SECTION*
 
-![Screenshot 6](screenshots/ss3.png)
+![Screenshot 6](https://github.com/anuragsinha03/credity/blob/main/static/images/ss3.png?raw=true)
 *PREDICTOR SECTION*
 
-![Screenshot 7](screenshots/help.png)
+![Screenshot 7](https://github.com/anuragsinha03/credity/blob/main/static/images/help.png?raw=true)
 *HELP SECTION*
 
 ## Contributors
